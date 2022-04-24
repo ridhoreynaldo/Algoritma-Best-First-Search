@@ -13,5 +13,7 @@ Instagram    : https://instagram.com/ridho_reynaldo
 Note	     : Ini Dibuat dengan Algoritma Sistem Pendukung Keputusan DSS
 
 DSS -> Uninformed Search(Blind Search) dan Informed Search(Heuristic Search)
+
 Informed Search -> Best First Search
+
 Best First Search -> Uniform cost Search, Greedy dan A Star
