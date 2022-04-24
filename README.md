@@ -1,4 +1,4 @@
-# Algoritma-A-
+# Algoritma-Best-First-Search
 Algoritma Sistem Pendukung Keputusan
 Author       : Ridho Reynaldo
 
